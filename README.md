@@ -30,3 +30,6 @@ This project focuses on predicting salaries using machine learning and data mini
 **Models:** Saved trained models for future use or deployment.
 
 **Reports:** Documentation, presentations, and reports summarizing the project findings, methodologies, and results.
+
+
+### Feel free to contribute, open issues, or provide feedback to enhance the Selenium web automation testing process for Daraz!
